@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/inc/proprietary/WPDB.zip:/system/etc/WPDB.zip \
     vendor/htc/inc/proprietary/Incredible_C_20100310_VZW_Neo_324016_v4_PMIC.acdb:/system/etc/firmware/Incredible_C_20100310_VZW_Neo_324016_v4_PMIC.acdb \
     vendor/htc/inc/proprietary/Incredible_C_20100319_VZW_Neo_324016_v5_VZW.acdb:/system/etc/firmware/Incredible_C_20100319_VZW_Neo_324016_v5_VZW.acdb \
+    vendor/htc/inc/proprietary/Incredible_C_20100319_VZW_Neo_324016_v8_default.acdb:/system/etc/firmware/Incredible_C_20100319_VZW_Neo_324016_v8_default.acdb \
     vendor/htc/inc/proprietary/default.acdb:/system/etc/firmware/default.acdb \
     vendor/htc/inc/proprietary/default_PMIC.acdb:/system/etc/firmware/default_PMIC.acdb \
     vendor/htc/inc/proprietary/default_VZW.acdb:/system/etc/firmware/default_VZW.acdb \
@@ -49,5 +50,4 @@ PRODUCT_COPY_FILES += \
     vendor/htc/inc/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/inc/proprietary/incrediblec-keypad.kcm.bin:/system/usr/keychars/incrediblec-keypad.kcm.bin \
     vendor/htc/inc/proprietary/h2w_headset.kl:/system/usr/keylayout/h2w_headset.kl \
-    vendor/htc/inc/proprietary/incrediblec-keypad.kl:/system/usr/keylayout/incrediblec-keypad.kl \
-    vendor/htc/inc/proprietary/Incredible_C_20100921_VZW_Neo_324016_v10_default.acdb:/system/etc/firmware/Incredible_C_20100921_VZW_Neo_324016_v10_default.acdb
+    vendor/htc/inc/proprietary/incrediblec-keypad.kl:/system/usr/keylayout/incrediblec-keypad.kl
