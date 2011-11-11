@@ -22,6 +22,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/htc/inc/proprietary/akmd:/system/bin/akmd \
     vendor/htc/inc/proprietary/snd8k:/system/bin/snd8k \
+    vendor/htc/inc/proprietary/AdieHWCodecSetting.csv:/system/etc/AdieHWCodecSetting.csv \
     vendor/htc/inc/proprietary/AudioBTID.csv:/system/etc/AudioBTID.csv \
     vendor/htc/inc/proprietary/TPA2018.csv:/system/etc/TPA2018.csv \
     vendor/htc/inc/proprietary/WPDB.zip:/system/etc/WPDB.zip \
